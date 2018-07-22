@@ -3,8 +3,7 @@ import './color.css'
 class Color extends Component {
 
     state = {
-        color: null,
-        isColor: false
+        color: null
     }
 
     boxClickHandler = () => {
