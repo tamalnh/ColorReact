@@ -1,0 +1,13 @@
+.color div{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    font-size: 25px;
+    text-align: center
+    
+}
+
+.color div span {
+    background: #fff;
+    padding: 5px;
+}
